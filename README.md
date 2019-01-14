@@ -1,12 +1,11 @@
 GitHub page: https://amsterdam.github.io/afkortingen/
 
-# Afkortingen / abbreviations DataPunt - Amsterdam
+# Afkortingen Gemeente Amsterdam
 
-Afkortingen / abbreviations used in the City of Amsterdam and the DataPunt organization.
-Here is a none exaustive list of abbrevations alongside possible translations and external/internal resources.
+Abbreviations used in the City of Amsterdam and the DataPunt organization.
+Here is a none exaustive list of abbrevations alongside possible translations and external/internal resources for new developpers to get aquainted quickly to our ever expanding list of abbreviations.
 
-## Basisregistraties
-
+## Basisregistraties (see more info on www.amsterdam.nl/stelselpedia)
 - BAG - Basisregistratie Adressen en Gebouwen 
 - BGT - Basisregistratie Grootschalige Topografie 
 - BRK - Basisregistratie Kadaster 
@@ -16,8 +15,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 -  HR - Handelsregister
 - WOZ - Waarde Onroerende Zaken 
 
-## Kernregistraties
-
+## Kernregistraties (see more info on www.amsterdam.nl/stelselpedia)
 - AHN - Actueel Hoogtebestand Nederland
 - Gebieden
 - Luchtfotos
@@ -30,28 +28,74 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 
 ## Gekke benamingen
 - Nummeraanduiding - Ambtenaars voor adres
+- [Alle afkortingen van attributen in basisregistraties](https://dokuwiki.datapunt.amsterdam.nl/doku.php?id=start:datasets:basisregistratie:afkortingen_registraties) alleen intern te bekijken via de dokuwiki.
+- DSU - Daily Stand Up
 
 ## Statistiek gegevens
-- BBGA - Basis Bestand Gebieden Amsterdam
+- [BBGA](https://data.amsterdam.nl/#?dte=dcatd%2Fdatasets%2Fbasisbestand-gebieden-amsterdam-bbga&dtfs=T&dsf=groups::bevolking&mpb=topografie&mpz=11&mpv=52.3731081:4.8932945) - Basis Bestand Gebieden Amsterdam
 
 ## Systemen
-- VAO - Veilige Analyse Omgeving
-- SIA - Signalen Informatievoorziening Amsterdam
-- BMI - Bruggen Management Informatiesysteem
-- HIOR - Handboek Inrichting Openbare Ruimte
 
-## Organisatie
-- SD - Team Service Delivery of Stadsdelen
-- WPI - Werk Participatie & Inkomen \| Work Participation and Income
-- SIA - Signalen Informatie systeem Amsterdam ( MORA)
-- MORA - Meldigen Openbare Ruimte Amsterdam.
-- GOB - Generieke ontsluiting basisgegevens, see: https://github.com/amsterdam/gob
-- V&OR - Verkeer en Openbare ruimte
+- ADP - Amsterdams Digitale Poort
+- BMI - Bruggen Management Informatiesysteem
+- DMS - Document Management Systeem
+- [GOB](https://github.com/Amsterdam/GOB) - Gemeentelijke Ontsluiting Basisgegevens
+- MKS - MaKelaarsSuite: distributiesysteem voor persoonsgegevens en handelsregister
+- MORA - Meldingen Openbare Ruimte Amsterdam (voorloper van SIA)
+- [HIOR](https://hior.amsterdam.nl) - Handboek Inrichting Openbare Ruimte
+- IAM - Identity and Access Manager
+- PTB - Principle ToolBox (producten administatie IV)
+- SIA - Signalen Informatiesysteem Amsterdam
+- VAO - Veilige Analyse Omgeving
+- [DCAT](https://www.w3.org/TR/vocab-dcat/) - Data CATalog Vocabulary: RDF vocabulary for interoperability between data catalogs. 
+- ZRC Zaak registratie Component
+
+## Privacy
+- [AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg) - Algemene Verordening Gegevensbescherming
+- [BIG](https://www.bigregister.nl/privacy) - Baseline Informatiebeveiliging Gemeenten
+- [BIV](https://nl.wikipedia.org/wiki/BIV-classificatie) -  Beschikbaarheid (continuïteit), Integriteit (betrouwbaarheid), Vertrouwelijkheid 
+- IB - Informatie Beveiligingsmaatregelen
+- GDPR - General Data Protection Regulation (zie AVG)
+- PIA - Privacy Impact Analyse (Datapunt intake)
+- RIG - Raamwerk Informatiebeveiliging Gegevensdiensten
+- URA - Uitgebreide Risico Analyse
+- VRA - Verkorte Risico Analyse
+- WPD - Werkproces voor Privacygerelateerde Dataleveringen (Stedelijke intake)
+
+## Documentatie
+- [Dokuwiki](https://dokuwiki.datapunt.amsterdam.nl/) - Interne Wiki met achtergrondinformatie projecten Datapunt
+- PSA - Project Start Architectuur document uit PPM processen voor bijvoorbeeld inkoop nieuwe software.
+- [WMO](https://www.rijksoverheid.nl/onderwerpen/zorg-en-ondersteuning-thuis/wmo-2015)
+
+## Methoden
+- [GGW](https://www.amsterdam.nl/bestuur-organisatie/volg-beleid/gebiedsgericht/artikelen/gebiedsgericht/) - GebiedsGericht Werken
+- [TMLO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi4wav0pu3fAhUB-aQKHV5tBToQFjAAegQIChAB&url=https%3A%2F%2Fwww.archief2020.nl%2Fnieuws%2Ftoepassingsprofiel-metadatering-lokale-overheden&usg=AOvVaw0RlTyWc4GdgL8ClI1pUu8y) - Toepassingsprofiel Metadatering Lokale Overheden
+- [BIM](https://hetnationaalbimplatform.nl/wat-is-bim.php)- Building Information Model
 
 ## Technology
 - API - Application program interface, computer accesible version of data in the system. 
 
+## Organisatie
+- DP - Datapunt
+- [FIXX](https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/werkplaats/fixxx/) - User centric design team Datapunt
+- IB(A) - IngenieursBureau Amsterdam
+- IV - InformatieVoorziening per cluster
+- [OIS](https://www.ois.amsterdam.nl/) - Directie Onderzoek, Informatie, Statistiek
+- SD - Stadsdelen
+- [WPI](https://www.amsterdam.nl/werk-inkomen/) - Directie Werk Participatie & Inkomen
+- V&OR - Directie Verkeer & Openbare ruimte
+- VTH - Directie Vergunning Toezicht & Handhaving
 
+## Teams
+- SD - Team Service Delivery of Stadsdelen
+- DCU - Data Collectie Unit
+
+## Rollen
+- CIO - Chief Information Officer
+- CISO - Chief Information and Security Officer
+- PIB - Privacy Informatie Beveiliger
+
+# How to contribute
 
 ## Page setup
 
