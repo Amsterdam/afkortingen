@@ -38,7 +38,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 
 ## Systemen
 - VAO - Veilige Analyse Omgeving
-- SIA - Signalen Informatiesysteem Amsterdam
+- SIA - Signalen Informatievoorziening Amsterdam
 - BMI - Bruggen Management Informatiesysteem
 - HIOR - Handboek Inrichting Openbare Ruimte
 
