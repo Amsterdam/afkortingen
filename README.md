@@ -9,3 +9,5 @@ afkortingen / abbreviation used within Amsterdam goverment and Datapunt.
 
 - Nummeraanduiding - Ambetenaars voor adres
 - VAO - Veilige Analyse Omgeving
+- SIA Signalen Informatie systeem Amsterdam ( MORA)
+- Mora Meldigen Openbare Ruimte Amsterdam.
