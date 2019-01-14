@@ -1,15 +1,51 @@
 # Afkortingen / abbreviations DataPunt - Amsterdam
 
+
+Afkortingen / abbreviations used within the City of Amsterdam municipality and Datapunt.
+
+
 Many abbrevations are used throughout the Amsterdam government and in the various projects.
 Here is a none exaustive list of abbrevations alongside possible translations and external/internal resources.
 
 
-- BAG - Basisregistraties adressen en gebouwen
-- BGT - Basiskaart grootschalige topografie
-- BBGA - Basis Bestand Getallen Amsterdam
+## Basisregistraties
 
-- Nummeraanduiding - Ambetenaars voor adres
+- BAG - Basisregistratie Adressen en Gebouwen 
+- BGT - Basisregistratie Grootschalige Topografie 
+- BRK - Basisregistratie Kadaster 
+- BRO - Basisregistratie Ondergrond
+- BRP - Basisregistratie Personen 
+- BRT - Basisregistratie Kleinschalige Topografie
+-  HR - Handelsregister
+- WOZ - Waarde Onroerende Zaken 
+
+## Kernregistraties
+
+- AHN - Actueel Hoogtebestand Nederland
+- Gebieden
+- Luchtfotos
+- Meetbouten
+- Monumenten
+- NAP - Normaal Amsterdams Peil
+- Panoramabeelden
+- Postcode producten
+- Wkpb - Wet Kenbaarheid Publiekerechtelijke Beperkingen
+
+
+## Gekke benamingen
+- Nummeraanduiding - Ambtenaars voor adres
+
+## Statistiek gegevens
+- BBGA - Basis Bestand Gebieden Amsterdam
+
+## Systemen
 - VAO - Veilige Analyse Omgeving
+- SIA - Signalen Informatiesysteem Amsterdam
+- BMI - Bruggen Management Informatiesysteem
+
+## Organisatie
+- SD - Team Service Delivery of Stadsdelen
+- WPI - Werk Participatie & Inkomen | Work Participation and Income
 - SIA - Signalen Informatie systeem Amsterdam ( MORA)
 - MORA - Meldigen Openbare Ruimte Amsterdam.
 
