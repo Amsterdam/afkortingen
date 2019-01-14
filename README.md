@@ -5,9 +5,7 @@ GitHub page: https://amsterdam.github.io/afkortingen/
 Abbreviations used in the City of Amsterdam and the DataPunt organization.
 Here is a none exaustive list of abbrevations alongside possible translations and external/internal resources for new developpers to get aquainted quickly to our ever expanding list of abbreviations.
 
-
 ## Basisregistraties (see more info on www.amsterdam.nl/stelselpedia)
-
 - BAG - Basisregistratie Adressen en Gebouwen 
 - BGT - Basisregistratie Grootschalige Topografie 
 - BRK - Basisregistratie Kadaster 
@@ -73,6 +71,9 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - [GGW](https://www.amsterdam.nl/bestuur-organisatie/volg-beleid/gebiedsgericht/artikelen/gebiedsgericht/) - GebiedsGericht Werken
 - [TMLO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi4wav0pu3fAhUB-aQKHV5tBToQFjAAegQIChAB&url=https%3A%2F%2Fwww.archief2020.nl%2Fnieuws%2Ftoepassingsprofiel-metadatering-lokale-overheden&usg=AOvVaw0RlTyWc4GdgL8ClI1pUu8y) - Toepassingsprofiel Metadatering Lokale Overheden
 - [BIM](https://hetnationaalbimplatform.nl/wat-is-bim.php)- Building Information Model
+
+## Technology
+- API - Application program interface, computer accesible version of data in the system. 
 
 ## Organisatie
 - DP - Datapunt
