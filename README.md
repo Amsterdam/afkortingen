@@ -103,6 +103,12 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - CTO - Chief Techical Officer
 - PIB - Privacy Informatie Beveiliger
 
+## Organisations
+- BZK - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+- EZ - Ministerie van Economische Zaken
+- VNG - Vereniging Nederlandse Gemeenten
+- NLX - ?
+
 # How to contribute
 
 ## Page setup
