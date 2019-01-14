@@ -1,4 +1,5 @@
-# afkoringen
+# afkoringen  / Abbreviations
+
 afkortingen / abbreviation used within Amsterdam goverment and Datapunt.
 
 
