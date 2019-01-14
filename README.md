@@ -37,6 +37,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - [BBGA](https://data.amsterdam.nl/#?dte=dcatd%2Fdatasets%2Fbasisbestand-gebieden-amsterdam-bbga&dtfs=T&dsf=groups::bevolking&mpb=topografie&mpz=11&mpv=52.3731081:4.8932945) - Basis Bestand Gebieden Amsterdam
 
 ## Systemen
+
 - ADP - Amsterdams Digitale Poort
 - BMI - Bruggen Management Informatiesysteem
 - DMS - Document Management Systeem
@@ -92,7 +93,6 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - CIO - Chief Information Officer
 - CISO - Chief Information and Security Officer
 - PIB - Privacy Informatie Beveiliger
-
 
 # How to contribute
 
