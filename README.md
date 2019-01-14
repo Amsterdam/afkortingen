@@ -2,9 +2,7 @@ GitHub page: https://amsterdam.github.io/afkortingen/
 
 # Afkortingen / abbreviations DataPunt - Amsterdam
 
-Afkortingen / abbreviations used within the City of Amsterdam municipality and Datapunt.
-
-Many abbrevations are used throughout the Amsterdam government and in the various projects.
+Afkortingen / abbreviations used in the City of Amsterdam and the DataPunt organization.
 Here is a none exaustive list of abbrevations alongside possible translations and external/internal resources.
 
 
