@@ -5,7 +5,6 @@ GitHub page: https://amsterdam.github.io/afkortingen/
 Afkortingen / abbreviations used in the City of Amsterdam and the DataPunt organization.
 Here is a none exaustive list of abbrevations alongside possible translations and external/internal resources.
 
-
 ## Basisregistraties
 
 - BAG - Basisregistratie Adressen en Gebouwen 
@@ -29,7 +28,6 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - Postcode producten
 - Wkpb - Wet Kenbaarheid Publiekerechtelijke Beperkingen
 
-
 ## Gekke benamingen
 - Nummeraanduiding - Ambtenaars voor adres
 
@@ -50,8 +48,10 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - GOB - Generieke ontsluiting basisgegevens, see: https://github.com/amsterdam/gob
 - V&OR - Verkeer en Openbare ruimte
 
-## Techniek
+## Technology
 - API - Application program interface, computer accesible version of data in the system. 
+
+
 
 ## Page setup
 
