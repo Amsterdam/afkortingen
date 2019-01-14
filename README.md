@@ -40,12 +40,15 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - VAO - Veilige Analyse Omgeving
 - SIA - Signalen Informatiesysteem Amsterdam
 - BMI - Bruggen Management Informatiesysteem
+- HIOR - Handboek Inrichting Openbare Ruimte
 
 ## Organisatie
 - SD - Team Service Delivery of Stadsdelen
-- WPI - Werk Participatie & Inkomen | Work Participation and Income
+- WPI - Werk Participatie & Inkomen \| Work Participation and Income
 - SIA - Signalen Informatie systeem Amsterdam ( MORA)
 - MORA - Meldigen Openbare Ruimte Amsterdam.
+- GOB - Gemeentelijke ontsluiting basisgegevens
+- V&OR - Verkeer en Openbare ruimte
 
 
 ## Page setup
