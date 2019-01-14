@@ -131,4 +131,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Theme
 
-The site uses the layout and styles from the Jekyll theme that is selected in [repository settings](https://github.com/RRMoelker/amsterdam-abbreviations/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The site uses [Amsterdam Jekyll Theme](https://github.com/Amsterdam/amsterdam-jekyll-theme) to generate a site at https://amsterdam.github.io/afkortingen/.
