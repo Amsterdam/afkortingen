@@ -47,9 +47,11 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - WPI - Werk Participatie & Inkomen \| Work Participation and Income
 - SIA - Signalen Informatie systeem Amsterdam ( MORA)
 - MORA - Meldigen Openbare Ruimte Amsterdam.
-- GOB - Generieke ontsluiting basisgegevens, zie ook: https://github.com/amsterdam/gob
+- GOB - Generieke ontsluiting basisgegevens, see: https://github.com/amsterdam/gob
 - V&OR - Verkeer en Openbare ruimte
 
+## Techniek
+- API - Application program interface, computer accesible version of data in the system. 
 
 ## Page setup
 
