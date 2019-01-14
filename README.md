@@ -26,15 +26,14 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - Postcode producten
 - Wkpb - Wet Kenbaarheid Publiekerechtelijke Beperkingen
 
-## Gekke benamingen
+## Basisregistratie attributes
 - Nummeraanduiding - Ambtenaars voor adres
 - [Alle afkortingen van attributen in basisregistraties](https://dokuwiki.datapunt.amsterdam.nl/doku.php?id=start:datasets:basisregistratie:afkortingen_registraties) alleen intern te bekijken via de dokuwiki.
-- DSU - Daily Stand Up
 
-## Statistiek gegevens
+## Statistical Data
 - [BBGA](https://data.amsterdam.nl/#?dte=dcatd%2Fdatasets%2Fbasisbestand-gebieden-amsterdam-bbga&dtfs=T&dsf=groups::bevolking&mpb=topografie&mpz=11&mpv=52.3731081:4.8932945) - Basis Bestand Gebieden Amsterdam
 
-## Systemen
+## Systems
 
 - ADP - Amsterdams Digitale Poort
 - BMI - Bruggen Management Informatiesysteem
@@ -62,25 +61,26 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - VRA - Verkorte Risico Analyse
 - WPD - Werkproces voor Privacygerelateerde Dataleveringen (Stedelijke intake)
 
-## Documentatie
+## Documentation
 - [Dokuwiki](https://dokuwiki.datapunt.amsterdam.nl/) - Interne Wiki met achtergrondinformatie projecten Datapunt
 - PSA - Project Start Architectuur document uit PPM processen voor bijvoorbeeld inkoop nieuwe software.
 - [WMO](https://www.rijksoverheid.nl/onderwerpen/zorg-en-ondersteuning-thuis/wmo-2015)
 
-## Methoden
+## Methods
 - [CD](https://nl.wikipedia.org/wiki/Continuous_delivery) Continuous Delivery
 - [CI](https://en.wikipedia.org/wiki/Continuous_integration) Continuous Integration
 - [GGW](https://www.amsterdam.nl/bestuur-organisatie/volg-beleid/gebiedsgericht/artikelen/gebiedsgericht/) - GebiedsGericht Werken
 - [TMLO](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwi4wav0pu3fAhUB-aQKHV5tBToQFjAAegQIChAB&url=https%3A%2F%2Fwww.archief2020.nl%2Fnieuws%2Ftoepassingsprofiel-metadatering-lokale-overheden&usg=AOvVaw0RlTyWc4GdgL8ClI1pUu8y) - Toepassingsprofiel Metadatering Lokale Overheden
 - [BIM](https://hetnationaalbimplatform.nl/wat-is-bim.php)- Building Information Model
 - [PPM](https://leansixsigmatools.nl/projectportfolio-management) - Project Portfolio Management
+- DSU - Daily Stand Up
 
 ## Technology
 - [API](https://nl.wikipedia.org/wiki/Application_programming_interface) - Application program interface, computer accessible version of data in the system. 
 - [WFS](https://nl.wikipedia.org/wiki/Web_Feature_Service) - Web Feature Service for vector based mapping data.
 - [WMS](https://nl.wikipedia.org/wiki/WMS) - Web Mapping Service for bitmap based mapping data.
 
-## Organisatie
+## Organisations
 - DP - Datapunt
 - [FIXX](https://www.amsterdam.nl/bestuur-organisatie/organisatie/overige/datalab-amsterdam/werkplaats/fixxx/) - User centric design team Datapunt
 - IB(A) - IngenieursBureau Amsterdam
@@ -97,17 +97,19 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - SD - Team Service Delivery of Stadsdelen
 - DCU - Data Collectie Unit
 
-## Rollen
+## Roles
 - CIO - Chief Information Officer
 - CISO - Chief Information and Security Officer
 - CTO - Chief Techical Officer
 - PIB - Privacy Informatie Beveiliger
 
-## Organisations
-- BZK - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
-- EZ - Ministerie van Economische Zaken
-- VNG - Vereniging Nederlandse Gemeenten
-- NLX - ?
+## Nation wide Organisations
+- [BZK](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties) - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
+- [EZ](https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat) - Ministerie van Economische Zaken en Klimaat
+- [NLX](https://nlx.io/) - Gemeenschappelijke infrastructuur om data uit te wisselen via VNG.
+- [PDOK](https://www.pdok.nl/) - Publieke Dienstverlening Op de Kaart. National platform for geographic data build by www.geonovum.nl 
+- [VNG](https://vng.nl/) - Vereniging Nederlandse Gemeenten
+
 
 # How to contribute
 
