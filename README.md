@@ -73,7 +73,9 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - [BIM](https://hetnationaalbimplatform.nl/wat-is-bim.php)- Building Information Model
 
 ## Technology
-- API - Application program interface, computer accesible version of data in the system. 
+- [API](https://nl.wikipedia.org/wiki/Application_programming_interface) - Application program interface, computer accessible version of data in the system. 
+- [WFS](https://nl.wikipedia.org/wiki/Web_Feature_Service) - Web Feature Service for vector based mapping data.
+- [WMS](https://nl.wikipedia.org/wiki/WMS) - Web Mapping Service for bitmap based mapping data.
 
 ## Organisatie
 - DP - Datapunt
