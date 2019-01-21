@@ -74,6 +74,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - [BIM](https://hetnationaalbimplatform.nl/wat-is-bim.php)- Building Information Model
 - [PPM](https://leansixsigmatools.nl/projectportfolio-management) - Project Portfolio Management
 - DSU - Daily Stand Up
+- MVP - Minimal viable product
 
 ## Technology
 - [API](https://nl.wikipedia.org/wiki/Application_programming_interface) - Application program interface, computer accessible version of data in the system. 
