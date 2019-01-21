@@ -90,6 +90,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - [WPI](https://www.amsterdam.nl/werk-inkomen/) - Directie Werk Participatie & Inkomen
 - V&OR - Directie Verkeer & Openbare ruimte
 - VTH - Directie Vergunning Toezicht & Handhaving
+- WBA - Werkgroep Blackspots Amsterdam
 
 ## Teams
 - MT - Management Team Directie
