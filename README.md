@@ -100,6 +100,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - DCU - Data Collectie Unit
 
 ## Roles
+- APO - Areal Product Owner
 - CIO - Chief Information Officer
 - CISO - Chief Information and Security Officer
 - CTO - Chief Techical Officer
