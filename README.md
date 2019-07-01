@@ -52,7 +52,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 ## Privacy
 - [AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg) - Algemene Verordening Gegevensbescherming
 - [BIG](https://www.bigregister.nl/privacy) - Baseline Informatiebeveiliging Gemeenten
-- BIO - Baseline informatiebeveiliging Overheid
+- BIO - Baseline informatiebeveiliging Overheid, regels omtrend privacy/beveiliging. Ter vervanging van BIG.
 - [BIV](https://nl.wikipedia.org/wiki/BIV-classificatie) -  Beschikbaarheid (continuïteit), Integriteit (betrouwbaarheid), Vertrouwelijkheid 
 - IB - Informatie Beveiligingsmaatregelen
 - GDPR - General Data Protection Regulation (zie AVG)
