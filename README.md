@@ -48,6 +48,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - VAO - Veilige Analyse Omgeving
 - [DCAT](https://www.w3.org/TR/vocab-dcat/) - Data CATalog Vocabulary: RDF vocabulary for interoperability between data catalogs. 
 - ZRC Zaak registratie Component
+- AIS Automatic Identification System
 
 ## Privacy
 - [AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg) - Algemene Verordening Gegevensbescherming
