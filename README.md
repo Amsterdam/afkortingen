@@ -50,6 +50,10 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - ZRC Zaak registratie Component
 - AIS Automatic Identification System
 
+## Projects
+- CJIB OV - Centraal Justitieel Incassobureau, onherroepelijk veroordeelden
+- SHV monitor - Schuldhulpverlening Monitor
+
 ## Privacy
 - [AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg) - Algemene Verordening Gegevensbescherming
 - BIG - Baseline Informatiebeveiliging Gemeenten
