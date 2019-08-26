@@ -104,6 +104,7 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 - GMT - Gemeentelijk Management Team
 - SD - Team Service Delivery of Stadsdelen
 - DCU - Data Collectie Unit
+- DSR = Data Squad Ruimte (dsr.map.data.amsterdam.nl)
 
 ## Roles
 - APO - Areal Product Owner
