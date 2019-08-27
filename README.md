@@ -10,9 +10,9 @@ Here is a none exaustive list of abbrevations alongside possible translations an
 If you come accross an abbreviation, and it is already widely used in the gemeente or in your domain, then add it.
 
 If you have come up with a great new abbrevation yourself, then please, don't just add it.
-Discuss it with colleges whether the benefit of a few less syllables/letters outway the cost of requiring this additional knowledge in order to function in the organization.
+Discuss with colleges whether the benefit of a few less syllables/letters outway the cost of requiring this additional knowledge in order to function in the organization.
 
-See the ASS rule: https://gist.github.com/klaaspieter/12cd68f54bb71a3940eae5cdd4ea1764
+See the Acronyms Seriously Suck rule: https://gist.github.com/klaaspieter/12cd68f54bb71a3940eae5cdd4ea1764
 
 ## Basisregistraties (see more info on www.amsterdam.nl/stelselpedia)
 - BAG - Basisregistratie Adressen en Gebouwen 
