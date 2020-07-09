@@ -63,8 +63,9 @@ See the Acronyms Seriously Suck rule: https://gist.github.com/klaaspieter/12cd68
 - CJIB OV - Centraal Justitieel Incassobureau, onherroepelijk veroordeelden
 - SHV monitor - Schuldhulpverlening Monitor
 
-## Privacy
+## Privacy / Security
 - [AVG](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-europese-privacywetgeving/algemene-informatie-avg) - Algemene Verordening Gegevensbescherming
+- BBN - Basis Beveiligings Niveau (BBN1, BBN2, BBN3)
 - BIG - Baseline Informatiebeveiliging Gemeenten
 - [BIO](https://www.informatiebeveiligingsdienst.nl/product/baseline-informatiebeveiliging-overheid-bio/) - Baseline informatiebeveiliging Overheid, regels omtrend privacy/beveiliging. Ter vervanging van BIG.
 - [BIV](https://nl.wikipedia.org/wiki/BIV-classificatie) -  Beschikbaarheid (continuïteit), Integriteit (betrouwbaarheid), Vertrouwelijkheid 
